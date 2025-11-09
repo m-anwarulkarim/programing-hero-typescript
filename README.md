@@ -15,9 +15,9 @@
 | 07  | 🧮 **Normal, Array & Callback Functions**                      |
 | 08  | 🌐 **Rest & Spread Operator**                                  |
 | 09  | ✂️ **Destructuring in TypeScript**                             |
-| 10  | ⏳ _(Coming Soon)_                                             |
-| 11  | ⏳ _(Coming Soon)_                                             |
-| 12  | ⏳ _(Coming Soon)_                                             |
+| 10  | ⏳ **Type Alias**                                              |
+| 11  | ⏳ **Union & intersection types**                              |
+| 12  | ⏳ **ternary, nullish coalescing & optional chaining**         |
 | 13  | ⏳ _(Coming Soon)_                                             |
 | 14  | ⏳ _(Coming Soon)_                                             |
 
