@@ -38,7 +38,7 @@
 | 02  | 🔏 **interface**                              |
 | 03  | 🔏 **Generic array, tuple , array of object** |
 | 04  | 🔏 **GENERIC with INTERFACE**                 |
-| 05  | 🔏 **coming soon...**                         |
+| 05  | 🔏 **Generics with function**                 |
 | 06  | 🔏 **coming soon...**                         |
 | 07  | 🔏 **coming soon...**                         |
 | 08  | 🔏 **coming soon...**                         |
