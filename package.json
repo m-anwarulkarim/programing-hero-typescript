@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "ts-node src/module-01/class-04.ts"
+    "dev": "ts-node src/module-06/class-01.ts"
   },
   "keywords": [],
   "author": "",

@@ -1,8 +1,16 @@
 //(Non-Primitive Type |) 1. array  2. tuple
 /* 
-১️⃣ Non-Primitive Type কী?
+✅ Non-Primitive Types কি?
 
-Non-Primitive Type হলো সেই ধরনের ডেটা যা reference type হিসেবে ব্যবহৃত হয়। অর্থাৎ, ডেটার ভ্যালু সরাসরি স্টোর হয় না, বরং মেমোরিতে তার reference বা ঠিকানা রাখা হয়।
+Non-primitive types মানে যেসব ডেটা স্ট্রাকচার value হিসেবে simple না, বরং multiple value ধারণ করতে পারে এবং mutable হয়।
+
+TypeScript বা JavaScript এ non-primitive টাইপ মূলত ৩টা জিনিস:
+Object
+Array
+Function
+
+এগুলোকে  নিজের মতো করে modify করা যায়।
+Primitive টাইপগুলো immutable, Non-primitive টাইপগুলো mutable।
 
 উদাহরণ:
 

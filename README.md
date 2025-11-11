@@ -1,4 +1,4 @@
-# Module 01 — TypeScript Basics
+# Module 05 — TypeScript Basics
 
 ---
 
@@ -21,6 +21,30 @@
 | 13  | 🔏 **nullable, unknown & never type , typrOf**                 |
 
 ---
+
+| ----------------------------------------------------------------------------------------------
+
+# Module 06 — TypeScript Basics
+
+---
+
+## Topics Covered
+
+| No. | Topic                                                          |
+| --- | -------------------------------------------------------------- |
+| 01  | 🔏 **type Assertion**                                          |
+| 02  | 🔏 **Install Node.js using NVM**                               |
+| 03  | 🔏 **Install and Run TypeScript**                              |
+| 04  | 🔏 **Primitive Types**                                         |
+| 05  | 🔏 **Non-Primitive Types**                                     |
+| 06  | 🔏 **Object, Literal & Optional Type, Literal Type, Readonly** |
+| 07  | 🔏 **Normal, Array & Callback Functions**                      |
+| 08  | 🔏 **Rest & Spread Operator**                                  |
+| 09  | 🔏 **Destructuring in TypeScript**                             |
+| 10  | 🔏 **Type Alias**                                              |
+| 11  | 🔏 **Union & intersection types**                              |
+| 12  | 🔏 **ternary, nullish coalescing & optional chaining**         |
+| 13  | 🔏 **nullable, unknown & never type , typrOf**                 |
 
 ## Overview
 
