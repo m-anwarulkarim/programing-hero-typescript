@@ -30,21 +30,21 @@
 
 ## Topics Covered
 
-| No. | Topic                                                          |
-| --- | -------------------------------------------------------------- |
-| 01  | 🔏 **type Assertion**                                          |
-| 02  | 🔏 **Install Node.js using NVM**                               |
-| 03  | 🔏 **Install and Run TypeScript**                              |
-| 04  | 🔏 **Primitive Types**                                         |
-| 05  | 🔏 **Non-Primitive Types**                                     |
-| 06  | 🔏 **Object, Literal & Optional Type, Literal Type, Readonly** |
-| 07  | 🔏 **Normal, Array & Callback Functions**                      |
-| 08  | 🔏 **Rest & Spread Operator**                                  |
-| 09  | 🔏 **Destructuring in TypeScript**                             |
-| 10  | 🔏 **Type Alias**                                              |
-| 11  | 🔏 **Union & intersection types**                              |
-| 12  | 🔏 **ternary, nullish coalescing & optional chaining**         |
-| 13  | 🔏 **nullable, unknown & never type , typrOf**                 |
+| No. | Topic                                         |
+| --- | --------------------------------------------- |
+| 01  | 🔏 **type Assertion**                         |
+| 02  | 🔏 **interface**                              |
+| 03  | 🔏 **Generic array, tuple , array of object** |
+| 04  | 🔏 **GENERIC with INTERFACE**                 |
+| 05  | 🔏 **coming soon...**                         |
+| 06  | 🔏 **coming soon...**                         |
+| 07  | 🔏 **coming soon...**                         |
+| 08  | 🔏 **coming soon...**                         |
+| 09  | 🔏 **coming soon...**                         |
+| 10  | 🔏 **Tcoming soon...**                        |
+| 11  | 🔏 **coming soon...**                         |
+| 12  | 🔏 **coming soon...**                         |
+| 13  | 🔏 **coming soon...**                         |
 
 ## Overview
 
