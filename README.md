@@ -39,8 +39,8 @@
 | 03  | 🔏 **Generic array, tuple , array of object** |
 | 04  | 🔏 **GENERIC with INTERFACE**                 |
 | 05  | 🔏 **Generics with function**                 |
-| 06  | 🔏 **coming soon...**                         |
-| 07  | 🔏 **coming soon...**                         |
+| 06  | 🔏 **Constraint**                             |
+| 07  | 🔏 **keyof and keyof Constraint**             |
 | 08  | 🔏 **coming soon...**                         |
 | 09  | 🔏 **coming soon...**                         |
 | 10  | 🔏 **Tcoming soon...**                        |

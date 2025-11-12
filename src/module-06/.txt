@@ -1,3 +1,13 @@
 1 . type Assertion 
 2 . Interface
 3 . Generic
+4. GENERIC with INTERFACE 
+5. Generics with function
+6. 
+7.
+8.
+9. 
+10. 
+11.
+12.
+13
