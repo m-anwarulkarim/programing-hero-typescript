@@ -19,7 +19,7 @@ let data: any = "Hello";
 // এখানে আমরা TypeScript কে বলছি — data হচ্ছে string
 let length = (data as string).length;
 
-console.log(length);
+// console.log(length);
 
 /* 
 📘 ব্যাখ্যা:
@@ -33,7 +33,7 @@ data এর টাইপ any, তাই TypeScript জানে না এটি
 const checkStudentInfo = (value: any): any => {
   // Type Checking সহ কাজ
   if (typeof value === "string") {
-    console.log(`👨‍🎓 Student name is ${(value as string).toUpperCase()}`);
+    return `👨‍🎓 Student name is ${(value as string).toUpperCase()}`;
   } else if (typeof value === "number") {
     // Type Assertion ব্যবহার করেও value কে number ধরেছি
     if ((value as number) >= 80) {
@@ -48,7 +48,7 @@ const checkStudentInfo = (value: any): any => {
 
 // ==================== Function Call ====================
 checkStudentInfo("Anwarul" as string); // Assertion: string হিসেবে নিচ্ছে
-console.log(checkStudentInfo(85 as number)); // Assertion: number হিসেবে নিচ্ছে
+// console.log(checkStudentInfo(85 as number)); // Assertion: number হিসেবে নিচ্ছে
 
 /* 
 🎯 এখানে আমরা manually Type Assertion ব্যবহার করেছি:
@@ -78,12 +78,14 @@ TypeScript ভাবছে value একটা string,
 
 /*
 ✅ Type Assertion ব্যবহার করবেন যখন:
-1️⃣ আপনি আসল টাইপ ১০০% নিশ্চিত
-2️⃣ TypeScript ভুলভাবে টাইপ infer করেছে
-3️⃣ আপনি DOM / third-party API data নিয়ে কাজ করছেন (dynamic data)
+1️. আপনি আসল টাইপ ১০০% নিশ্চিত
+2️. TypeScript ভুলভাবে টাইপ infer করেছে
+3️. আপনি DOM / third-party API data নিয়ে কাজ করছেন (dynamic data)
 */
 
 /* ================= 🌐 Bonus Example (DOM) ================= */
 
 // const inputElement = document.querySelector("#username") as HTMLInputElement;
 // console.log(inputElement.value);
+
+// *********************** practise **************************
