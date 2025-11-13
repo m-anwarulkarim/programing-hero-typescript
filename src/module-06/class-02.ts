@@ -1,4 +1,4 @@
-//#.Interface  #.extends #.Index Signature  #.Array of Interface #.Interface vs Type Alias
+//#.Interface  #.extends #.Index Signature  #.Array of Interface #. function of interface
 
 /* =====================================================
    1. Interface কি?
@@ -79,6 +79,7 @@ interface MyArray {
 }
 
 const arr: MyArray = ["apple", "banana", "orange"];
+console.log(arr);
 
 /* 
 index → number (0,1,2...)  
@@ -132,3 +133,7 @@ type User = {
 
 2. Interface দিয়ে Extend করা সহজ। Type Alias এ extends নেই, intersection (&) ব্যবহার করতে হয়।
 */
+interface ArrInterface {
+  id: number;
+  name: string;
+}

@@ -1,5 +1,5 @@
-01 . type Assertion 
-02 . Interface
+01 . type Assertion = any
+02 . Interface = interface , extends
 03 . Generic
 04.  GENERIC with INTERFACE 
 05.  Generics with function
