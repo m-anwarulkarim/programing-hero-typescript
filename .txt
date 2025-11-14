@@ -15,9 +15,3 @@ nginx
 
 
 
-68553ad (HEAD -> main, origin/main) HEAD@{0}: commit: git practise
-dfd9281 HEAD@{1}: commit: module-06
-bf69d10 HEAD@{2}: commit: module-06
-2681dc6 HEAD@{3}: commit: module-06
-f9a1165 HEAD@{4}: commit: module-06
-f28754e HEAD@{5}: commit: module-06
