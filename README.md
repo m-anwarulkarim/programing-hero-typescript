@@ -58,21 +58,21 @@
 
 ## Topics Covered
 
-| No. | Topic                 |
-| --- | --------------------- |
-| 01  | 🔏 **caming soon...** |
-| 02  | 🔏 **caming soon...** |
-| 03  | 🔏 **caming soon...** |
-| 04  | 🔏 **caming soon...** |
-| 05  | 🔏 **caming soon...** |
-| 06  | 🔏 **caming soon...** |
-| 07  | 🔏 **caming soon...** |
-| 08  | 🔏 **caming soon...** |
-| 09  | 🔏 **caming soon...** |
-| 10  | 🔏 **caming soon...** |
-| 11  | 🔏 **caming soon...** |
-| 12  | 🔏 **caming soon...** |
-| 13  | 🔏 **caming soon...** |
+| No. | Topic                               |
+| --- | ----------------------------------- |
+| 01  | 🔏 **Class & Object in TypeScript** |
+| 02  | 🔏 **caming soon...**               |
+| 03  | 🔏 **caming soon...**               |
+| 04  | 🔏 **caming soon...**               |
+| 05  | 🔏 **caming soon...**               |
+| 06  | 🔏 **caming soon...**               |
+| 07  | 🔏 **caming soon...**               |
+| 08  | 🔏 **caming soon...**               |
+| 09  | 🔏 **caming soon...**               |
+| 10  | 🔏 **caming soon...**               |
+| 11  | 🔏 **caming soon...**               |
+| 12  | 🔏 **caming soon...**               |
+| 13  | 🔏 **caming soon...**               |
 
 ## Overview
 
