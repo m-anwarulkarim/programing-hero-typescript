@@ -7,7 +7,7 @@
 07.  keyof and keyof Constraint
 08.  Enum
 09.  as const
-10. 
-11.
+10. Conditional Type in TypeScript
+11.map type
 12.
 13

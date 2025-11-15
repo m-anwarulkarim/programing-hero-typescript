@@ -89,3 +89,16 @@ TypeScript ভাবছে value একটা string,
 // console.log(inputElement.value);
 
 // *********************** practise **************************
+
+const converter = (input: number | string): number | string | undefined => {
+  if (typeof input === "number") {
+    return input * 1000;
+  }
+
+  if (typeof input === "string") {
+    const [value] = input.split(" ");
+    return `converted ${Number(value) * 1000}`;
+  }
+};
+
+converter(5);
