@@ -1,0 +1,10 @@
+1. Class & Object in TypeScript : 1.Object 2.Class 3.constructor 4.Method 5.Parameter Properties
+2. Inheritance : super() 
+3.  Type Guard in TypeScript: by using typeof & in 
+4. instanceof 
+5. Access Modifiers: 1.readonly: 2.private 3.protected 4.public
+6. Getter & Setter
+7. Static 
+8. Polymorphism
+9. Abstraction in TypeScript (OOP Concept): Interface + implements , Abstract Class
+10. Encapsulation 

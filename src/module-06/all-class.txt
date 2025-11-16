@@ -1,0 +1,28 @@
+01 . type Assertion = any
+02 . Interface = interface , extends
+03 . Generic
+04.  GENERIC with INTERFACE 
+05.  Generics with function
+06.  Constraint
+07.  keyof and keyof Constraint
+08.  Enum
+09.  as const
+10. Conditional Type in TypeScript
+11.map type
+12.
+13
+
+**********ANCHOR -     keyof Constraint —  class-07   
+
+1.  keyof Constraint 
+
+const getPropertyFromObj = <T, K extends keyof T>(obj: T, key: K): T[K] => {
+  return obj[key];
+};
+
+// ✅ ব্যবহার
+const userName = getPropertyFromObj(user, "name"); // string
+const userAddress = getPropertyFromObj(user, "address"); // { city: string }
+
+**********ANCHOR - as const ==> class-09
+
