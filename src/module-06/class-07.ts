@@ -88,6 +88,7 @@ keyof constraint মানে হলো:
 => K = শুধুমাত্র সেই Object এর key গুলোর মধ্য থেকে একটা key
 => extends keyof T = মানে “K অবশ্যই ঐ object-এর key হতে হবে”
 */
+// NOTE - ########################################################################
 
 const getPropertyFromObj = <T, K extends keyof T>(obj: T, key: K): T[K] => {
   return obj[key];
