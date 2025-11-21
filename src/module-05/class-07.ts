@@ -45,6 +45,22 @@ const obj = {
 Array method (যেমন map, filter, reduce) এ callback function ব্যবহার করা হয়।
 */
 
+// মূল function
+function greet(name: string, callback: (message: string) => void) {
+  const msg = `Hello, ${name}!`;
+  callback(msg); // Callback call
+}
+
+// callback function
+function showMessage(message: string) {
+  console.log(message);
+}
+
+// function call
+greet("Anwar", showMessage);
+
+// ******************
+
 const array: number[] = [1, 2, 3, 4, 5, 6, 8, 9, 0];
 
 const squaredArray = array.map((value: number) => {

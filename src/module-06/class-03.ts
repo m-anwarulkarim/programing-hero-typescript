@@ -16,6 +16,7 @@ flexible রাখে। মানে, টাইপ আগে থেকে ন�
 let numbers: Array<number> = [1, 2, 3, 4]; // number type array
 let strings: Array<string> = ["a", "b", "c"]; // string type array
 
+type numbers2 = Array<number>;
 /* -----------------------------
 2️. Generic Tuple (Type Alias)
 ----------------------------- */
