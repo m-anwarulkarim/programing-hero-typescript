@@ -64,15 +64,13 @@
 | 02  | 🔏 **Inheritance**                  |
 | 03  | 🔏 **Type Guard in TypeScript**     |
 | 04  | 🔏 **Type guard using instance of** |
-| 05  | 🔏 **caming soon...**               |
-| 06  | 🔏 **caming soon...**               |
-| 07  | 🔏 **caming soon...**               |
-| 08  | 🔏 **caming soon...**               |
-| 09  | 🔏 **caming soon...**               |
-| 10  | 🔏 **caming soon...**               |
+| 05  | 🔏 **Access Modifiers**             |
+| 06  | 🔏 **Getter & Setter**              |
+| 07  | 🔏 **Static**                       |
+| 08  | 🔏 **Polymorphism.**                |
+| 09  | 🔏 **Abstraction in TypeScript.**   |
+| 10  | 🔏 **Encapsulation.**               |
 | 11  | 🔏 **caming soon...**               |
-| 12  | 🔏 **caming soon...**               |
-| 13  | 🔏 **caming soon...**               |
 
 ## Overview
 
